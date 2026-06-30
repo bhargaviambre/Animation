@@ -81,16 +81,16 @@ img:hover{
 } 
 @keyframes orbit{
     0%{
-        transform: rotate(0deg) transalate(60px) rotate(0deg) scale(1);
+        transform: rotate(0deg) translate(60px) rotate(0deg) scale(1);
     }
     25%{
-        transform: rotate(90deg) transalate(60px) rotate(-90deg) scale(0.8,1.2);
+        transform: rotate(90deg) translate(60px) rotate(-90deg) scale(0.8,1.2);
     }
     50%{
-        transform: rotate(180deg) transalate(60px) rotate(-180deg) scale(1.2,0.8);
+        transform: rotate(180deg) translate(60px) rotate(-180deg) scale(1.2,0.8);
     }
     75%{
-        transform: rotate(270deg) transalate(60px) rotate(-270deg) scale(0.8,1.2);
+        transform: rotate(270deg) translate(60px) rotate(-270deg) scale(0.8,1.2);
     }
     100%{
         transform: rotate(360deg) transalate(60px) rotate(-360deg) scale(1);
